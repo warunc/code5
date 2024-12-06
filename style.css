@@ -1,0 +1,24 @@
+.main{
+    /* height: 800px; */
+    /* border: 5px solid black;\ */
+}
+.a,.b,.c,.d,.e,.f,.g,.h{
+    height: 200px;
+    /* border: 5px solid black; */
+    width: 350px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    margin: 0%;
+    padding: 0%;
+}
+img{
+    width: 100%;
+}
+p{
+    position: absolute;
+    margin: 0%;
+    top: 0%;
+    padding: 0%;
+    color:aqua;
+}
